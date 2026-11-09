@@ -49,7 +49,7 @@ Python, pandas, NumPy, scikit-learn, LightGBM, XGBoost, matplotlib, seaborn, Jup
 
 ```bash
 pip install pandas numpy scikit-learn lightgbm xgboost matplotlib seaborn jupyter
-# place bank-additional-full.csv in the same folder as the notebook
+# the dataset is included in the Data folder
 jupyter notebook Portuguese_Bank_Term_Deposit_Prediction.ipynb
 ```
 
